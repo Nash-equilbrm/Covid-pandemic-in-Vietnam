@@ -1,0 +1,2 @@
+https://covid19.ncsc.gov.vn/api/v3/covid/provinces?filter_type=case_by_time
+https://covid19.ncsc.gov.vn/api/v3/vaccine/province/2
